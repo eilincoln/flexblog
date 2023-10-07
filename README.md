@@ -9,4 +9,4 @@ Foi feito para poder aprimorar minhas técnicas em CSS Flexbox.
 
 ## Meta
 
-Lincoln Berto - [LinkedIn]("https://www.linkedin.com/in/lincolnberto/") - lincolnbsantos@hotmail.com.com
+Lincoln Berto - [LinkedIn]("https://www.linkedin.com/in/lincolnberto/") - lincolnbsantos@hotmail.com
