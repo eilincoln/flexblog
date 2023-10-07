@@ -6,3 +6,7 @@ Esse é um projeto de uma página estática de um site feito com bastante elemen
 Foi feito para poder aprimorar minhas técnicas em CSS Flexbox.
 
 ![](./img/Screenshot_52.png)
+
+## Meta
+
+Lincoln Berto - [LinkedIn]("https://www.linkedin.com/in/lincolnberto/") - lincolnbsantos@gmail.com
